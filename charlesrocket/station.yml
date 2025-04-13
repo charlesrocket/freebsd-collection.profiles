@@ -2,7 +2,7 @@
 
 # Dotfiles
 dotfiles_repo: https://github.com/charlesrocket/dotfiles.git
-dotfiles_repo_version: master
+dotfiles_repo_version: fbsd
 dotfiles_repo_force: true
 dotfiles_repo_local_destination: ~/src/dotfiles
 dotfiles_files:
