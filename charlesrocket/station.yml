@@ -63,7 +63,6 @@ bastille: true
 desktop_ohmyzsh: true
 intel: true
 sys_microcode_update: true
-qmk: true
 virtualbox: true
 wifi: true
 mfa: true
@@ -80,8 +79,10 @@ sys_ipv6_support: true
 tethering_apple: true
 timezone: America/Los_Angeles
 
+qmk: true
 qmk_userspace: "https://github.com/charlesrocket/qmk_userspace"
 qmk_userspace_version: "trunk"
+qmk_firmware_location: "~/src/qmk_firmware"
 
 sys_boot_verbose: true
 sys_coretemp: true
