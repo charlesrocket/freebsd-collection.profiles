@@ -33,6 +33,7 @@ dotfiles_files:
   - .config/mc/ini
   - .config/qmk/qmk.ini
   - .config/qt5ct/qt5ct.conf
+  - .config/qt6ct/qt6ct.conf
   - .config/tofi/config
   - .config/transmission/settings.json
   - .config/wlogout/layout
