@@ -218,6 +218,7 @@ pkgng_packages:
   - python3
   - qt5-style-plugins
   - qt5ct
+  - qt6ct
   - rbenv
   - ripgrep
   - rkhunter
