@@ -230,6 +230,7 @@ pkgng_packages:
   - seahorse
   - seatd
   - shards
+  - slowcat
   - sndio
   - socat
   - swaybg
