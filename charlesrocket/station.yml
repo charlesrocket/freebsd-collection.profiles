@@ -117,7 +117,6 @@ git_doc: false
 pkgng_packages:
   - adwaita-icon-theme
   - adwaita-qt5
-  - alacritty
   - apl385
   - arduino-core
   - aria2
@@ -150,6 +149,7 @@ pkgng_packages:
   - ffuf
   - filezilla
   - firefox-esr
+  - foot
   - fusefs-exfat
   - fusefs-ext2
   - fusefs-hfsfuse
