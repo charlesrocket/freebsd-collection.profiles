@@ -169,6 +169,7 @@ pkgng_packages:
   - gnome-icon-theme
   - gnome-icon-theme-extras
   - gnome-keyring
+  - gnome-themes-extra
   - gnuls
   - gnupg
   - gnuplot
@@ -195,6 +196,7 @@ pkgng_packages:
   - llvm
   - lynis
   - lynx
+  - markdown
   - masscan
   - material-icons-ttf
   - mc
@@ -216,6 +218,9 @@ pkgng_packages:
   - portlint
   - pv
   - pwgen
+  - py*-nose3
+  - py*-pipenv
+  - py*-pytest
   - python3
   - qt5-style-plugins
   - qt5ct
