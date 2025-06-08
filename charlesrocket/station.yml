@@ -216,6 +216,8 @@ pkgng_packages:
   - perl5
   - pijul
   - plex-ttf
+  - pop-gtk-themes
+  - pop-icon-theme
   - portfmt
   - portlint
   - pv
