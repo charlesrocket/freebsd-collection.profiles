@@ -111,6 +111,8 @@ user_groups:
   - video
   - wheel
 
+drm_module: "drm-515-kmod"
+
 # Manage src/ports/doc with git
 git_ports: false
 git_src: false
