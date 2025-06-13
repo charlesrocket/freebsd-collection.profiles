@@ -27,10 +27,11 @@ dotfiles_files:
   - .config/eww/scripts/power-button
   - .config/eww/scripts/toggle-bt
   - .config/foot/foot.ini
-  - .config/glib-2.0/settings/keyfile
-  - .config/gtk-3.0/settings.ini
+  - .config/ghostty/config
   - .config/git/config
   - .config/git-cliff/cliff.toml
+  - .config/glib-2.0/settings/keyfile
+  - .config/gtk-3.0/settings.ini
   - .config/hypr/hyprland.conf
   - .config/hypr/hyprlock.conf
   - .config/mc/ini
