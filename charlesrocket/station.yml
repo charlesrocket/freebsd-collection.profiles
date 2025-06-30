@@ -269,6 +269,7 @@ pkgng_packages:
   - whois
   - wlogout
   - xwayland
+  - zaproxy
   - zig
   - zls
   - zmap
