@@ -6,6 +6,7 @@ dotfiles_repo_version: fbsd
 dotfiles_repo_force: true
 dotfiles_repo_local_destination: ~/src/dotfiles
 dotfiles_files:
+  - .bashrc
   - .config/Kvantum/kvantum.kvconfig
   - .config/aria2/aria2.conf
   - .config/alacritty.toml
