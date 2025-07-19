@@ -45,12 +45,12 @@ dotfiles_files:
   - .config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
   - .config/xsettingsd/xsettingsd.conf
   - .gtkrc-2.0.mine
+  - .profile
   - .shrc
+  - .zprofile
   - .zsh-custom
   - .zshrc
-  - bin/devmode
-  - bin/hyprstart
-  - bin/lowpowermode
+  - bin
 
 # Git
 git_repo_destination: ~/src/git
