@@ -271,6 +271,7 @@ pkgng_packages:
   - wget
   - whois
   - wlogout
+  - xtxf
   - xwayland
   - zaproxy
   - zig
