@@ -242,6 +242,7 @@ pkgng_packages:
   - slowcat
   - sndio
   - socat
+  - starship
   - swaybg
   - swayidle
   - thunar
