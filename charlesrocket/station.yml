@@ -16,35 +16,24 @@ dotfiles_files:
   - .config/doom/packages.el
   - .config/dorst/config.toml
   - .config/dunst/dunstrc
-  - .config/eww/eww.scss
-  - .config/eww/eww.yuck
-  - .config/eww/scripts/get-active-workspace
-  - .config/eww/scripts/get-battery
-  - .config/eww/scripts/get-devs
-  - .config/eww/scripts/get-network
-  - .config/eww/scripts/get-volume
-  - .config/eww/scripts/get-window-title
-  - .config/eww/scripts/get-workspaces
-  - .config/eww/scripts/power-button
-  - .config/eww/scripts/toggle-bt
+  - .config/eww
   - .config/foot/foot.ini
   - .config/ghostty/config
   - .config/git/config
   - .config/git-cliff/cliff.toml
   - .config/glib-2.0/settings/keyfile
   - .config/gtk-3.0/settings.ini
-  - .config/hypr/hyprland.conf
-  - .config/hypr/hyprlock.conf
+  - .config/hypr
   - .config/mc/ini
   - .config/qmk/qmk.ini
   - .config/qt5ct/qt5ct.conf
   - .config/qt6ct/qt6ct.conf
   - .config/tofi/config
   - .config/transmission/settings.json
-  - .config/wlogout/layout
-  - .config/wlogout/style.css
+  - .config/wlogout
   - .config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
   - .config/xsettingsd/xsettingsd.conf
+  - .config/starship.toml
   - .gtkrc-2.0.mine
   - .profile
   - .shrc
