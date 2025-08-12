@@ -41,6 +41,7 @@ dotfiles_files:
   - .zsh-custom
   - .zshrc
   - bin
+  - misc
 
 # Git
 git_repo_destination: ~/src/git
