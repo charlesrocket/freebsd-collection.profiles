@@ -129,6 +129,7 @@ pkgng_packages:
   - claws-mail-pgp
   - cmake
   - consolekit2
+  - coreutils
   - crystal
   - curl
   - diffutils
