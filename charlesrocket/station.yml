@@ -2,7 +2,8 @@
 
 # Dotfiles
 dotfiles_dfs: true
-dotfiles_dfs_config: https://raw.githubusercontent.com/charlesrocket/dotfiles/refs/heads/trunk/.config/dfs.zon
+dotfiles_dfs_config: "https://raw.githubusercontent.com/charlesrocket/dotfiles\
+/refs/heads/trunk/.config/dfs.zon"
 
 # Git
 git_repo_destination: ~/src/git
