@@ -1,47 +1,8 @@
 ---
 
 # Dotfiles
-dotfiles_repo: https://github.com/charlesrocket/dotfiles.git
-dotfiles_repo_version: fbsd
-dotfiles_repo_force: true
-dotfiles_repo_local_destination: ~/src/dotfiles
-dotfiles_files:
-  - .bashrc
-  - .config/Kvantum/kvantum.kvconfig
-  - .config/aria2/aria2.conf
-  - .config/alacritty.toml
-  - .config/btop/btop.conf
-  - .config/doom/config.el
-  - .config/doom/init.el
-  - .config/doom/packages.el
-  - .config/dorst/config.toml
-  - .config/dunst/dunstrc
-  - .config/eww
-  - .config/foot/foot.ini
-  - .config/ghostty/config
-  - .config/git/config
-  - .config/git-cliff/cliff.toml
-  - .config/glib-2.0/settings/keyfile
-  - .config/gtk-3.0/settings.ini
-  - .config/hypr
-  - .config/mc/ini
-  - .config/qmk/qmk.ini
-  - .config/qt5ct/qt5ct.conf
-  - .config/qt6ct/qt6ct.conf
-  - .config/tofi/config
-  - .config/transmission/settings.json
-  - .config/wlogout
-  - .config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
-  - .config/xsettingsd/xsettingsd.conf
-  - .config/starship.toml
-  - .gtkrc-2.0.mine
-  - .profile
-  - .shrc
-  - .zprofile
-  - .zsh-custom
-  - .zshrc
-  - bin
-  - misc
+dotfiles_dfs: true
+dotfiles_dfs_config: https://raw.githubusercontent.com/charlesrocket/dotfiles/refs/heads/trunk/.config/dfs.zon
 
 # Git
 git_repo_destination: ~/src/git
@@ -252,6 +213,7 @@ pkgng_packages:
   - tmux
   - tofi
   - transmission
+  - transmission-gtk
   - tree
   - uarduno
   - unibilium
