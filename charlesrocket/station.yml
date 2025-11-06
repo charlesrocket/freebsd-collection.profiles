@@ -177,6 +177,7 @@ pkgng_packages:
   - pcsc-tools
   - perl5
   - pijul
+  - pipewire
   - plex-ttf
   - pop-gtk-themes
   - pop-icon-theme
@@ -224,8 +225,10 @@ pkgng_packages:
   - virtual_oss
   - vlc
   - wdisplays
+  - webcamd
   - wget
   - whois
+  - wireplumber
   - wlogout
   - xtxf
   - xwayland
