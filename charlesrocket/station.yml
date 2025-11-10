@@ -17,14 +17,15 @@ laptop: true
 laptop_thinkpad: true
 laptop_dock: false
 
+desktop_notifications_service: dunst
+desktop_ohmyzsh: true
 desktop_acpi: true
+
 asus: false
 amd: false
 clamav: true
 bastille: true
-desktop_ohmyzsh: true
 intel: true
-sys_microcode_update: true
 virtualbox: true
 wifi: true
 mfa: true
@@ -37,7 +38,6 @@ wg_enabled: true
 
 bastille_zfs_enable: true
 bastille_zfs_zpool: zroot
-sys_ipv6_support: true
 tethering_apple: true
 timezone: America/Los_Angeles
 
@@ -46,6 +46,8 @@ qmk_userspace: "https://github.com/charlesrocket/qmk_userspace"
 qmk_userspace_version: "trunk"
 qmk_firmware_location: "~/src/qmk_firmware"
 
+sys_microcode_update: true
+sys_ipv6_support: true
 sys_boot_verbose: true
 sys_coretemp: true
 sys_cpuctl: true
