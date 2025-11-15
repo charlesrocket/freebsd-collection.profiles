@@ -134,7 +134,6 @@ pkgng_packages:
   - gnome-icon-theme-extras
   - gnome-keyring
   - gnome-themes-extra
-  - gnuls
   - gnupg
   - gnuplot
   - gobuster
