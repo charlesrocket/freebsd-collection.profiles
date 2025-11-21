@@ -196,6 +196,7 @@ pkgng_packages:
   - rbenv
   - ripgrep
   - rkhunter
+  - rofi-wayland
   - ruby
   - rust
   - rust-analyzer
@@ -214,7 +215,6 @@ pkgng_packages:
   - thunar
   - tig
   - tmux
-  - tofi
   - transmission
   - transmission-gtk
   - tree
