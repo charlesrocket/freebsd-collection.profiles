@@ -223,7 +223,7 @@ pkgng_packages:
   - unzip
   - vagrant
   - valgrind
-  - virtual_oss
+# - virtual_oss
   - vlc
   - wdisplays
   - webcamd
