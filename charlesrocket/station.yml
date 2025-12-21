@@ -198,8 +198,7 @@ pkgng_packages:
   - rkhunter
   - rofi-wayland
   - ruby
-  - rust
-  - rust-analyzer
+  - rustup-init
   - scdoc
   - screen
   - seahorse
