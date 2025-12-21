@@ -222,7 +222,6 @@ pkgng_packages:
   - unzip
   - vagrant
   - valgrind
-# - virtual_oss
   - vlc
   - wdisplays
   - webcamd
@@ -230,6 +229,7 @@ pkgng_packages:
   - whois
   - wireplumber
   - wlogout
+  - xdg-desktop-portal-hyprland
   - xtxf
   - xwayland
   - zaproxy
