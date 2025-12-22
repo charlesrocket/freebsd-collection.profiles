@@ -20,6 +20,11 @@ laptop_dock: false
 desktop_notifications_service: dunst
 desktop_ohmyzsh: true
 desktop_acpi: true
+desktop_kde: false
+desktop_gnome: false
+desktop_hyprland: true
+desktop_sddm: false
+desktop_gdm: false
 
 asus: false
 amd: false
@@ -39,7 +44,7 @@ wg_enabled: true
 bastille_zfs_enable: true
 bastille_zfs_zpool: zroot
 tethering_apple: true
-timezone: America/Los_Angeles
+timezone: America/New_York
 
 qmk: true
 qmk_userspace: "https://github.com/charlesrocket/qmk_userspace"
@@ -52,6 +57,7 @@ sys_boot_verbose: true
 sys_coretemp: true
 sys_cpuctl: true
 sys_aesni: true
+sys_linux: false
 
 common_lynis_profile: desktop
 make_config:
