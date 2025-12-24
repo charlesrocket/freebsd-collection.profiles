@@ -25,6 +25,8 @@ desktop_gnome: false
 desktop_hyprland: true
 desktop_sddm: false
 desktop_gdm: false
+desktop_webcamd: true
+#desktop_cups: true
 
 asus: false
 amd: false
