@@ -1,9 +1,8 @@
 ---
-
 # Dotfiles
 dotfiles_dfs: true
 dotfiles_dfs_config: "https://raw.githubusercontent.com/charlesrocket/dotfiles\
-/refs/heads/trunk/.config/dfs/config.zon"
+  /refs/heads/trunk/.config/dfs/config.zon"
 
 # Git
 git_repo_destination: ~/src/git
@@ -241,6 +240,7 @@ pkgng_packages:
   - xtxf
   - xwayland
   - zaproxy
+  - zed-editor
   - zig
   - zls
   - zmap
