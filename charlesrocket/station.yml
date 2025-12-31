@@ -119,7 +119,7 @@ pkgng_packages:
   - fd-find
   - ffuf
   - filezilla
-  - firefox-esr
+  - firefox
   - foot
   - fusefs-exfat
   - fusefs-ext2
