@@ -45,7 +45,6 @@ wg_enabled: true
 bastille_zfs_enable: true
 bastille_zfs_zpool: zroot
 tethering_apple: true
-timezone: America/New_York
 
 qmk: true
 qmk_userspace: "https://github.com/charlesrocket/qmk_userspace"
@@ -59,6 +58,8 @@ sys_coretemp: true
 sys_cpuctl: true
 sys_aesni: true
 sys_linux: false
+sys_login_banner: fsociety
+sys_timezone: America/New_York
 
 common_lynis_profile: desktop
 make_config:
