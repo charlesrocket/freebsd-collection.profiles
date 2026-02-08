@@ -156,7 +156,6 @@ pkgng_packages:
   - httping
   - hwstat
   - hyprland
-  - hyprlock
   - iftop
   - imhex
   - imv
@@ -217,8 +216,6 @@ pkgng_packages:
   - sndio
   - socat
   - starship
-  - swaybg
-  - swayidle
   - thunar
   - tig
   - tmux
@@ -236,7 +233,6 @@ pkgng_packages:
   - wget
   - whois
   - wireplumber
-  - wlogout
   - xdg-desktop-portal-hyprland
   - xtxf
   - xwayland
