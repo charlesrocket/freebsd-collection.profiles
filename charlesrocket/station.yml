@@ -21,7 +21,6 @@ desktop_ohmyzsh: true
 desktop_acpi: true
 desktop_kde: false
 desktop_gnome: false
-desktop_hyprland: true
 desktop_sddm: false
 desktop_gdm: false
 desktop_webcamd: true
@@ -111,7 +110,6 @@ pkgng_packages:
   - droid-fonts-ttf
   - dsbmc-cli
   - dsbmd
-  - dunst
   - editorconfig-core-c
   - en-aspell
   - epdfview
@@ -155,7 +153,6 @@ pkgng_packages:
   - htop
   - httping
   - hwstat
-  - hyprland
   - iftop
   - imhex
   - imv
@@ -166,6 +163,7 @@ pkgng_packages:
   - llvm
   - lynis
   - lynx
+  - mangowc
   - markdown
   - masscan
   - material-icons-ttf
