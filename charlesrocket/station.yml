@@ -198,6 +198,7 @@ pkgng_packages:
   - qt5-style-plugins
   - qt5ct
   - qt6ct
+  - quickshell
   - rbenv
   - ripgrep
   - rkhunter
