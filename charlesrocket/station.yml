@@ -1,8 +1,8 @@
 ---
 # Dotfiles
 dotfiles_dfs: true
-dotfiles_dfs_config: "https://raw.githubusercontent.com/charlesrocket/dotfiles\
-  /refs/heads/trunk/.config/dfs/config.zon"
+dotfiles_dfs_config: "https://codeberg.org/charlesrocket/dotfiles\
+  /raw/branch/trunk/.config/dfs/config.zon"
 
 # Git
 git_repo_destination: ~/src/git
@@ -46,7 +46,7 @@ bastille_zfs_zpool: zroot
 tethering_apple: true
 
 qmk: true
-qmk_userspace: "https://github.com/charlesrocket/qmk_userspace"
+qmk_userspace: "https://codeberg.org/charlesrocket/qmk-userspace"
 qmk_userspace_version: "trunk"
 qmk_firmware_location: "~/src/qmk_firmware"
 
